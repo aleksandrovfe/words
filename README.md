@@ -1,5 +1,7 @@
 # words
 
+https://words-25285.web.app/ - be hosted using firebase
+
 ## Project setup
 ```
 npm install
